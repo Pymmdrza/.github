@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pymmdrza&color=blue)
+![](https://komarev.com/ghpvc/?username=pymmdrza&color=blue&style=plastic)
 
 
 # Mmdrza ( Enjoy Programming )
